@@ -1,0 +1,136 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Anek Odia', sans-serif;
+  font-size: 20px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Send Flowers', cursive;
+  font-size: 90px;
+  font-weight:300;
+  color: #247881;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #247881;
+  margin-bottom: 55px;
+  font-size: 50px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  margin-top: 40px;
+}
+hr{
+  width:5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: grey;
+  border-width: 5px;
+}
+
+footer{
+  margin-top: 80px;
+  background-color: #99FFCD;
+  padding: 50px;
+  color: #11999E;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.myphoto{
+  margin-top: 50px;
+  width: 13%;
+}
+.ml{
+  font-size: 20px;
+  font-weight: normal;
+  color: #247881;
+}
+.abt-me{
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+  margin-bottom: 50px;
+}
+
+.top-container{
+  background-color: #9ADCFF;
+  /*00FFC6 95D1CC B8FFF9 EFFFFD 9ADCFF*/
+  padding-top: 150px;
+  position: relative;
+}
+.bottom-cloud{
+  position: absolute;
+  left : 300px;
+  bottom : 300px;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-img1{
+  width: 20%;
+  float:left;
+  margin-right: 15px;
+}
+.skill-img2{
+  width: 20%;
+  float: right;
+}
+.gt{
+  margin-bottom: 50px;
+}
+.i-element{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.footer-link{
+  margin-left: 18px;
+  margin-bottom: 50px;
+}
+.copyright{
+  padding: 20px 0;
+}
